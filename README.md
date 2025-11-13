@@ -6,12 +6,12 @@ Aquesta pàgina web presenta l'assignatura **DAW M05: Entorns de Desenvolupament
 ## Estructura del projecte
 - **index.html**: Estructura HTML bàsica de la web.
 - **style.css**: Estils visuals de la pàgina.
-- **img/**: Carpeta amb el logo de l'institut (`logo_institut.jpg`).
+- **img/**: Carpeta amb el logo de l'institut (`logo.jpg`).
 - **README.md**: Aquest fitxer de documentació.
 
 ## Instal·lació i ús
 1. Clona o descarrega aquest repositori.
-2. Afegeix el logo de l'institut com a `logo_institut.jpg` a la carpeta `img/`.
+2. Afegeix el logo de l'institut com a `logo.jpg` a la carpeta `img/`.
 3. Obre el fitxer `index.html` en un navegador web per visualitzar la pàgina.
 
 ## Tecnologies utilitzades
