@@ -1,43 +1,27 @@
-#
-# Miniweb col·laborativa - Grup X
+# Projecte Web: DAW M05 - Entorns de Desenvolupament
 
-Aquest projecte és una **miniweb feta en equip** pels alumnes de **2n de DAW**
-per practicar el **treball col·laboratiu amb GitHub**.
+## Descripció
+Aquesta pàgina web presenta l'assignatura **DAW M05: Entorns de Desenvolupament** del cicle formatiu de Desenvolupament d'Aplicacions Web. Inclou informació sobre l'assignatura, els seus continguts i un apartat de contacte, amb el logo de l'institut com a imatge principal.
 
----
+## Estructura del projecte
+- **index.html**: Estructura HTML bàsica de la web.
+- **style.css**: Estils visuals de la pàgina.
+- **img/**: Carpeta amb el logo de l'institut (`logo_institut.jpg`).
+- **README.md**: Aquest fitxer de documentació.
 
-## 👥 Membres del grup
-- Alumne A
-- Alumne B
-- Alumne C
+## Instal·lació i ús
+1. Clona o descarrega aquest repositori.
+2. Afegeix el logo de l'institut com a `logo_institut.jpg` a la carpeta `img/`.
+3. Obre el fitxer `index.html` en un navegador web per visualitzar la pàgina.
 
----
+## Tecnologies utilitzades
+- HTML5
+- CSS3
 
-## 🪜 Tasques assignades
+## Autors
+- **Alumne A**: Estructura HTML
+- **Alumne B**: Estilització CSS
+- **Alumne C**: Contingut (imatges i textos) i documentació
 
-| Membre | Rol / Tasca principal |
-|---------|------------------------|
-| Alumne A | Estructura HTML bàsica |
-| Alumne B | Disseny i CSS |
-| Alumne C | Contingut i imatges i Revisió i documentació|
-
-
----
-
-## Com treballar-hi
-
-1. Clona el repositori:
-
-```bash
-git clone https://github.com/<usuari>/miniweb-grupX.git
-
-Crea una branca amb el teu nom:
-
- 
-git checkout -b nom-alumne
-Fes els teus canvis i puja’ls:
-
- 
-git add .
-git commit -m "Afegeixo part HTML/CSS"
-git push origin nom-alumne
+## Llicència
+Aquest projecte és d'ús educatiu i no té llicència específica.
